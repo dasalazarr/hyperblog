@@ -2,4 +2,4 @@ Esta es la historia de Diego Salazar
 
 Nací en Ecuador
 
-Tengo 24 años y estoy aprendiendo GIT y GITHUB
+Tengo 24 años y estoy aprendiendo GIT y GITHUB en Platzi
